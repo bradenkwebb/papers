@@ -1,0 +1,123 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Inglis%
+\ \BBA {} Aberdein%
+}{%
+Inglis%
+\ \BBA {} Aberdein%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+inglis_beauty_2015}
+\APACinsertmetastar {%
+inglis_beauty_2015}%
+\begin{APACrefauthors}%
+Inglis, M.%
+\BCBT {}\ \BBA {} Aberdein, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Beauty {Is} {Not} {Simplicity}: {An} {Analysis} of
+  {Mathematicians}' {Proof} {Appraisals}} {Beauty {Is} {Not} {Simplicity}: {An}
+  {Analysis} of {Mathematicians}' {Proof} {Appraisals}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Philosophia Mathematica}{23}{1}{87--109}.
+\newblock
+\begin{APACrefDOI} \doi{10.1093/philmat/nku014} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+McAllister%
+\ \BBA {} Michele%
+}{%
+McAllister%
+\ \BBA {} Michele%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+mcallister_mathematical_2005}
+\APACinsertmetastar {%
+mcallister_mathematical_2005}%
+\begin{APACrefauthors}%
+McAllister, J\BPBI W.%
+\BCBT {}\ \BBA {} Michele, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Mathematical {Beauty} and the {Evolution} of the {Standards} of
+  {Mathematical} {Proof}} {Mathematical {Beauty} and the {Evolution} of the
+  {Standards} of {Mathematical} {Proof}}.
+\newblock
+\APACaddressPublisher{}{Mass.: MIT Press}.
+\newblock
+\begin{APACrefURL} [{2023-04-23}]\url{https://hdl.handle.net/1887/8622}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Book Title: The Visual Mind II Pages: 15-34}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shapiro%
+}{%
+Shapiro%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+shapiro_thinking_2000}
+\APACinsertmetastar {%
+shapiro_thinking_2000}%
+\begin{APACrefauthors}%
+Shapiro, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2000}.
+\newblock
+\APACrefbtitle {Thinking about mathematics: {The} philosophy of mathematics}
+  {Thinking about mathematics: {The} philosophy of mathematics}.
+\newblock
+\APACaddressPublisher{}{OUP Oxford}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Todd%
+}{%
+Todd%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+todd_unmasking_2008}
+\APACinsertmetastar {%
+todd_unmasking_2008}%
+\begin{APACrefauthors}%
+Todd, C\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Unmasking the {Truth} {Beneath} the {Beauty}: {Why} the
+  {Supposed} {Aesthetic} {Judgements} {Made} in {Science} {May} {Not} {Be}
+  {Aesthetic} at {All}} {Unmasking the {Truth} {Beneath} the {Beauty}: {Why}
+  the {Supposed} {Aesthetic} {Judgements} {Made} in {Science} {May} {Not} {Be}
+  {Aesthetic} at {All}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Studies in the Philosophy of
+  Science}{22}{1}{61--79}.
+\newblock
+\begin{APACrefURL}
+  [{2023-04-23}]\url{https://doi.org/10.1080/02698590802280910}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Publisher: Routledge \_eprint:
+  https://doi.org/10.1080/02698590802280910}
+\newblock
+\begin{APACrefDOI} \doi{10.1080/02698590802280910} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
